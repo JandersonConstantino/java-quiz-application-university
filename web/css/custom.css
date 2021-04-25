@@ -1,0 +1,40 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 04/11/2020, 19:03:08
+    Author     : jandersonconstantino
+*/
+
+html, body {
+    background: rgb(255,217,234);
+    background: radial-gradient(circle, rgba(255,217,234,1) 0%, rgba(148,187,233,1) 100%);
+}
+
+form {
+    margin-top: 30px;
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+form, h1 {
+    margin-bottom: 20px;
+}
+
+.col-12 {
+    display: inline-block;
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.result {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 20px;
+    margin-top: 50px;
+}
+
+    
